@@ -43,7 +43,7 @@
 
 ## 4. Technical Requirements
 
-- **Framework:** React Native / Flutter (for cross-platform support)  
+- **Framework:** Flutter (for cross-platform support)  
 - **Motion Analysis:** Google MediaPipe (Pose/Hand tracking APIs)  
 - **Backend:** Optional (for cloud storage, logging, or user accounts)  
 - **Data Storage:** Local device storage (SQLite or similar)  
