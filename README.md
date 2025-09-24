@@ -15,7 +15,7 @@ The name "Flip2Fit" is inspired by the **Samsung Galaxy Flip phone**, reflecting
 - **Personalized experience:** Supports multiple users and adjustable exercise settings.  
 
 ### Project Team
-- **Faik Cen Durmus**  
+- **Faik Cem Durmus**  
 - **Tim van Dijk**  
 - **Jesper Meuzelaar**  
 
